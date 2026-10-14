@@ -1,0 +1,62 @@
+# AI Phone Receptionist
+
+> An AI voice that answers a local service business’s phone calls when the owner cannot pick up: it answers basic questions and books appointments or takes a message. $399 setup + $199/month. A live test call is arranged before any payment; there is no online payment link for this product.
+
+AI Phone Receptionist is a product by Northbeam Builds, a small studio in Austin, TX that builds websites and AI tools for local service businesses. Company site: https://northbeambuilds.com
+
+## What it is
+
+AI Phone Receptionist — for shop owners who can’t pick up while they’re working: it’s a voice that answers your calls, answers basic questions, and books the appointment or takes a message, so callers reach help instead of voicemail.
+
+## Who it is for
+
+For: You miss calls all day because you’re out on jobs.; After-hours callers reach your voicemail and never call back.; You run a one- or two-person shop with no one free to answer the phone.
+Not for: You already have a full-time receptionist answering every call.; You need emergency dispatch calls handled with no human involved. Real emergencies and hard calls always go to a person.
+
+## Price
+
+$399 one-time setup + $199/month. First month total: $598. Month-to-month — cancel anytime, no long contract. If we don’t get it live and working as described, you don’t pay the setup fee.
+There is NO online payment link for this product on purpose: a live test call is arranged by email before any payment.
+
+## How it works
+
+1. On one short call, we collect your services, hours, prices, and booking rules — and what should always go straight to you.
+2. We set up the voice on your number. You hear it on a live test call and approve it before it ever answers a real customer.
+3. It answers when you can’t, books the job or takes a clean message — and anything complicated goes straight to a human: you.
+
+## What is included
+
+- Your number set up, your services, hours, and prices loaded.
+- Appointment booking into your calendar.
+- A message and summary for every call.
+- A live test call you approve before launch.
+- If we don’t get it live and working as described, you don’t pay the setup fee.
+
+## Questions and answers
+
+- Q: What if a call is complicated, or an emergency?
+  A: It goes straight to you. You set the rules on day one: which calls the voice handles, and which ones ring a human, every time.
+- Q: Can it book into my calendar?
+  A: Yes. It books real open times and you get the booking and a short summary of every call.
+- Q: Does it answer at night and on weekends?
+  A: Yes, whenever you set it to answer. Many owners use it only when they can’t pick up; it can cover the hours you choose.
+- Q: Can I hear it first?
+  A: That’s the deal. A live test call happens before any payment.
+
+## Links
+
+- Home: https://receptionist.northbeambuilds.com/
+- Pricing: https://receptionist.northbeambuilds.com/pricing/
+- FAQ: https://receptionist.northbeambuilds.com/faq/
+- Contact: https://receptionist.northbeambuilds.com/contact/
+
+## Contact
+
+Email: northbeambuilds@gmail.com (a person replies within one business day)
+
+## Other Northbeam Builds products
+
+- [Never-Miss-a-Lead](https://nevermiss.northbeambuilds.com/) — instant replies to missed calls and website forms
+- [Website FAQ & Lead Capture Agent](https://faqagent.northbeambuilds.com/) — a website chat box that answers questions and captures leads
+- [Website + Online Booking](https://booking.northbeambuilds.com/) — a website customers can book on
+- [AI Chatbot](https://chatbot.northbeambuilds.com/) — custom chat answers in more places than a website
