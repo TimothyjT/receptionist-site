@@ -30,14 +30,14 @@ There is NO online payment link for this product on purpose: a live test call is
 - Appointment booking into your calendar.
 - A message and summary for every call.
 - A live test call you approve before launch.
-- If we don’t get it live and working as described, you don’t pay the setup fee.
+- Live by the date we agree, or your setup fee comes back in full — guaranteed.
 
 ## Questions and answers
 
 - Q: What if a call is complicated, or an emergency?
   A: It goes straight to you. You set the rules on day one: which calls the voice handles, and which ones ring a human, every time.
 - Q: Can it book into my calendar?
-  A: Yes. It books real open times and you get the booking and a short summary of every call.
+  A: Yes. It books from your real open times — and you’ll hear it do exactly that on your test call, before you pay anything. You get the booking and a short summary of every call.
 - Q: Does it answer at night and on weekends?
   A: Yes, whenever you set it to answer. Many owners use it only when they can’t pick up; it can cover the hours you choose.
 - Q: Can I hear it first?
@@ -59,4 +59,4 @@ Email: northbeambuilds@gmail.com (a person replies within one business day)
 - [Never-Miss-a-Lead](https://nevermiss.northbeambuilds.com/) — instant replies to missed calls and website forms
 - [Website FAQ & Lead Capture Agent](https://faqagent.northbeambuilds.com/) — a website chat box that answers questions and captures leads
 - [Website + Online Booking](https://booking.northbeambuilds.com/) — a website customers can book on
-- [AI Chatbot](https://chatbot.northbeambuilds.com/) — custom chat answers in more places than a website
+- [AI Chatbot](https://chatbot.northbeambuilds.com/) — a custom chat agent, built around your business
