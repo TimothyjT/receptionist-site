@@ -40,6 +40,8 @@ There is NO online payment link for this product on purpose: a live test call is
   A: Yes. It books from your real open times — and you’ll hear it do exactly that on your test call, before you pay anything. You get the booking and a short summary of every call.
 - Q: Does it answer at night and on weekends?
   A: Yes, whenever you set it to answer. Many owners use it only when they can’t pick up; it can cover the hours you choose.
+- Q: How much does an AI receptionist cost?
+  A: Across the market, about $25 to $300 or more per month in 2026 (FindSkill 2026 guide, checked October 14, 2026). Ours is $399 setup + $199/month, $598 first month total, month-to-month. Full breakdown: https://receptionist.northbeambuilds.com/cost/
 - Q: Can I hear it first?
   A: That’s the deal. A live test call happens before any payment.
 
@@ -47,6 +49,7 @@ There is NO online payment link for this product on purpose: a live test call is
 
 - Home: https://receptionist.northbeambuilds.com/
 - Pricing: https://receptionist.northbeambuilds.com/pricing/
+- Cost explainer: https://receptionist.northbeambuilds.com/cost/
 - FAQ: https://receptionist.northbeambuilds.com/faq/
 - Contact: https://receptionist.northbeambuilds.com/contact/
 
