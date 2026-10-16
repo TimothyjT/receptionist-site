@@ -60,6 +60,8 @@ There is NO online payment link for this product on purpose: a live test call is
   A: Yes — https://receptionist.northbeambuilds.com/for-garage-doors/ covers an AI receptionist for garage door companies: what happens when a broken-spring or stuck-door call comes in while the owner is on a job, what an urgent call does, and what it costs a garage door company in total. Same price: $399 setup + $199/month.
 - Q: Is there a page for cleaning companies?
   A: Yes — https://receptionist.northbeambuilds.com/for-cleaning/ covers an AI receptionist for cleaning companies: what happens when a new-client quote or reschedule call comes in while the crew is on a job, what an urgent call does, and what it costs a cleaning company in total. Same price: $399 setup + $199/month.
+- Q: Is there a page for salons?
+  A: Yes — https://receptionist.northbeambuilds.com/for-salons/ covers an AI receptionist for salons: what happens when a booking or reschedule call comes in while you are with a client, what an urgent call does, and what it costs a salon in total. Same price: $399 setup + $199/month.
 
 ## Links
 
@@ -73,6 +75,7 @@ There is NO online payment link for this product on purpose: a live test call is
 - For pest control: https://receptionist.northbeambuilds.com/for-pest-control/
 - For garage doors: https://receptionist.northbeambuilds.com/for-garage-doors/
 - For cleaning companies: https://receptionist.northbeambuilds.com/for-cleaning/
+- For salons: https://receptionist.northbeambuilds.com/for-salons/
 - FAQ: https://receptionist.northbeambuilds.com/faq/
 - Contact: https://receptionist.northbeambuilds.com/contact/
 
