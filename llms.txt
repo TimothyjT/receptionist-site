@@ -46,12 +46,15 @@ There is NO online payment link for this product on purpose: a live test call is
   A: Across the market, about $25 to $300 or more per month in 2026 (FindSkill 2026 guide, checked October 14, 2026). Ours is $399 setup + $199/month, $598 first month total, month-to-month. Full breakdown: https://receptionist.northbeambuilds.com/cost/
 - Q: Can I hear it first?
   A: That’s the deal. A live test call happens before any payment.
+- Q: Is there a page for plumbing shops?
+  A: Yes — https://receptionist.northbeambuilds.com/for-plumbers/ covers an AI receptionist for plumbers: what happens when a plumbing call comes in while the owner is on a job, what an emergency call does, and what it costs a plumbing shop in total. Same price: $399 setup + $199/month.
 
 ## Links
 
 - Home: https://receptionist.northbeambuilds.com/
 - Pricing: https://receptionist.northbeambuilds.com/pricing/
 - Cost explainer: https://receptionist.northbeambuilds.com/cost/
+- For plumbers: https://receptionist.northbeambuilds.com/for-plumbers/
 - FAQ: https://receptionist.northbeambuilds.com/faq/
 - Contact: https://receptionist.northbeambuilds.com/contact/
 
