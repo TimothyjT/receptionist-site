@@ -56,6 +56,8 @@ There is NO online payment link for this product on purpose: a live test call is
   A: Yes — https://receptionist.northbeambuilds.com/for-electricians/ covers an AI receptionist for electrical companies: what happens when a no-power or tripping-breaker call comes in while the owner is on a job, what an urgent call does, and what it costs an electrical company in total. Same price: $399 setup + $199/month.
 - Q: Is there a page for pest control companies?
   A: Yes — https://receptionist.northbeambuilds.com/for-pest-control/ covers an AI receptionist for pest control companies: what happens when a scorpion, wasp, or ant call comes in while the owner is on a route, what an urgent call does, and what it costs a pest control company in total. Same price: $399 setup + $199/month.
+- Q: Is there a page for garage door companies?
+  A: Yes — https://receptionist.northbeambuilds.com/for-garage-doors/ covers an AI receptionist for garage door companies: what happens when a broken-spring or stuck-door call comes in while the owner is on a job, what an urgent call does, and what it costs a garage door company in total. Same price: $399 setup + $199/month.
 
 ## Links
 
@@ -67,6 +69,7 @@ There is NO online payment link for this product on purpose: a live test call is
 - For roofers: https://receptionist.northbeambuilds.com/for-roofers/
 - For electricians: https://receptionist.northbeambuilds.com/for-electricians/
 - For pest control: https://receptionist.northbeambuilds.com/for-pest-control/
+- For garage doors: https://receptionist.northbeambuilds.com/for-garage-doors/
 - FAQ: https://receptionist.northbeambuilds.com/faq/
 - Contact: https://receptionist.northbeambuilds.com/contact/
 
