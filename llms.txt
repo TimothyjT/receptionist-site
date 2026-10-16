@@ -52,6 +52,8 @@ There is NO online payment link for this product on purpose: a live test call is
   A: Yes — https://receptionist.northbeambuilds.com/for-hvac/ covers an AI receptionist for HVAC companies: what happens when a no-heat or no-cool call comes in while the owner is on a job, what an urgent call does, and what it costs an HVAC company in total. Same price: $399 setup + $199/month.
 - Q: Is there a page for roofing companies?
   A: Yes — https://receptionist.northbeambuilds.com/for-roofers/ covers an AI receptionist for roofing companies: what happens when a leak or storm-damage call comes in while the owner is on a job, what an urgent call does, and what it costs a roofing company in total. Same price: $399 setup + $199/month.
+- Q: Is there a page for electrical companies?
+  A: Yes — https://receptionist.northbeambuilds.com/for-electricians/ covers an AI receptionist for electrical companies: what happens when a no-power or tripping-breaker call comes in while the owner is on a job, what an urgent call does, and what it costs an electrical company in total. Same price: $399 setup + $199/month.
 
 ## Links
 
@@ -61,6 +63,7 @@ There is NO online payment link for this product on purpose: a live test call is
 - For plumbers: https://receptionist.northbeambuilds.com/for-plumbers/
 - For HVAC: https://receptionist.northbeambuilds.com/for-hvac/
 - For roofers: https://receptionist.northbeambuilds.com/for-roofers/
+- For electricians: https://receptionist.northbeambuilds.com/for-electricians/
 - FAQ: https://receptionist.northbeambuilds.com/faq/
 - Contact: https://receptionist.northbeambuilds.com/contact/
 
